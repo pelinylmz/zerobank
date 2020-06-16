@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="290bb8cc-9d14-4a96-ae3d-04d3754f3815" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="All" color="eafffa" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dKXRmdtQmK0TUXHXlkhDvp4KKm" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/zerobank/pages" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/zerobank/pages" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/zerobank/utilities" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zerobank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zerobank.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zerobank.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.zerobank.runners.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="290bb8cc-9d14-4a96-ae3d-04d3754f3815" name="Default Changelist" comment="" />
+      <created>1592174752659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592174752659</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="898" y="202" key="#Project_Structure" timestamp="1592175358661">
+      <screen x="0" y="23" width="1792" height="1025" />
+    </state>
+    <state x="898" y="202" key="#Project_Structure/0.23.1792.1025@0.23.1792.1025" timestamp="1592175358661" />
+    <state x="1062" y="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592176144424">
+      <screen x="0" y="23" width="1792" height="1025" />
+    </state>
+    <state x="1062" y="397" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1025@0.23.1792.1025" timestamp="1592176144424" />
+    <state width="1792" height="275" key="GridCell.Tab.0.bottom" timestamp="1592348074387">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="1792" height="275" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1592347878494" />
+    <state width="1792" height="275" key="GridCell.Tab.0.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1592348074387" />
+    <state width="1136" height="277" key="GridCell.Tab.0.bottom/0.23.1792.1025@0.23.1792.1025" timestamp="1592260235323" />
+    <state width="1792" height="393" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1592257079272" />
+    <state width="1792" height="275" key="GridCell.Tab.0.center" timestamp="1592348074386">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="1792" height="275" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1592347878493" />
+    <state width="1792" height="275" key="GridCell.Tab.0.center/0.23.1792.1022@0.23.1792.1022" timestamp="1592348074386" />
+    <state width="1136" height="277" key="GridCell.Tab.0.center/0.23.1792.1025@0.23.1792.1025" timestamp="1592260235322" />
+    <state width="1792" height="393" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1592257079271" />
+    <state width="1792" height="275" key="GridCell.Tab.0.left" timestamp="1592348074386">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="1792" height="275" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1592347878492" />
+    <state width="1792" height="275" key="GridCell.Tab.0.left/0.23.1792.1022@0.23.1792.1022" timestamp="1592348074386" />
+    <state width="1136" height="277" key="GridCell.Tab.0.left/0.23.1792.1025@0.23.1792.1025" timestamp="1592260235321" />
+    <state width="1792" height="393" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1592257079271" />
+    <state width="1792" height="275" key="GridCell.Tab.0.right" timestamp="1592348074387">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="1792" height="275" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1592347878493" />
+    <state width="1792" height="275" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1592348074387" />
+    <state width="1136" height="277" key="GridCell.Tab.0.right/0.23.1792.1025@0.23.1792.1025" timestamp="1592260235322" />
+    <state width="1792" height="393" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1592257079272" />
+    <state x="739" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1592340609622">
+      <screen x="0" y="23" width="1792" height="1021" />
+    </state>
+    <state x="739" y="340" key="com.intellij.ide.util.TipDialog/0.23.1792.1021@0.23.1792.1021" timestamp="1592340609622" />
+    <state x="739" y="341" key="com.intellij.ide.util.TipDialog/0.23.1792.1025@0.23.1792.1025" timestamp="1592252635481" />
+    <state x="739" y="341" key="com.intellij.ide.util.TipDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1592174756349" />
+    <state x="616" y="327" width="689" height="518" key="find.popup" timestamp="1592347413547">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="616" y="327" width="689" height="518" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1592347413547" />
+    <state x="480" y="297" width="689" height="472" key="find.popup/0.23.1792.1021@0.23.1792.1021" timestamp="1592346504851" />
+  </component>
+</project>
